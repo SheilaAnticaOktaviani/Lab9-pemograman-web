@@ -11,7 +11,7 @@
 ## User : admin
 ## Passowrd : admin
 
-# Tampilan Dasboard
+# Tampilan Dashboard
 <img width="635" height="230" alt="image" src="https://github.com/user-attachments/assets/5fd2ff3a-4a53-4a33-a15e-e69a8ebf32e5" />
 
 # Tampilan Data Barang
